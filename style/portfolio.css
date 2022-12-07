@@ -7,6 +7,10 @@
     --page-color: #F9F7FE;
 }
 
+body {
+    display: block;
+}
+
 h1,
 h2,
 h3,
@@ -112,4 +116,29 @@ p {
         padding: 0;
         text-align: center;
     }
+}
+
+img {
+    border-radius: 25px;
+}
+
+.about-section h1 {
+    font-size: 64px;
+    line-height: 80px;
+
+    margin-bottom: 1.5rem !important;
+}
+
+.about-section h2 {
+    font-size: 18px;
+    font-family: var(--secondary-font-family);
+    margin-bottom: 1.5rem !important;
+}
+
+.about-section p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 30px;
+    font-family: var(--secondary-font-family);
+
 }
