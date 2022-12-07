@@ -142,3 +142,7 @@ img {
     font-family: var(--secondary-font-family);
 
 }
+
+.img-fluid {
+    vertical-align: middle;
+}
