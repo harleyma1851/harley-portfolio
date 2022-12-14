@@ -146,3 +146,32 @@ img {
 .img-fluid {
     vertical-align: middle;
 }
+
+.content-container {
+    padding: 160px 20px;
+
+}
+
+.content-container h1 {
+    font-size: 64px;
+    line-height: 80px;
+    margin-bottom: 3rem !important;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+.content-container h3 {
+    font: var(--secondary-font-family);
+    font-size: 24px;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.content-container p {
+    font-size: 14px;
+
+}
+
+.content {
+    margin: 30px;
+}
