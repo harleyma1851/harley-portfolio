@@ -215,3 +215,14 @@ img {
 .content {
     margin: 30px;
 }
+
+.host {
+    font-size: small;
+    font-family: var(--secondary-font-family);
+    color: #272142;
+}
+
+.host a {
+    text-decoration: none;
+    color: #6C63FF;
+}
